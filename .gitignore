@@ -1,0 +1,6 @@
+Bootstrap/
+build/
+*.pdf
+DOC
+Samples/
+*.json
